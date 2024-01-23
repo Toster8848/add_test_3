@@ -1,1 +1,2 @@
-Test dodawania 
+Test dodawania zasobów
+
